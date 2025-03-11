@@ -1,0 +1,16 @@
+.main_container {
+  display: flex;
+  height: 100vh;
+  padding: 25px;
+  flex-direction: column;
+}
+
+.header {
+  flex: 2;
+}
+.tv_show_detail {
+  flex: 2;
+}
+.recommendations {
+  flex: 1;
+}
